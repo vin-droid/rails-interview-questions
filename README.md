@@ -90,11 +90,13 @@ Apart from your project's challenges, gems they asked the following questions.
 - **How can we store sessions in rails and share session across multiple domains?**
 - **What hidden fields are generated automatically in form_for.**
 - **How to manage to store data in a single table if :**
-                  ...Category  has_many sub_category
-                  ...SubCategory has_many sub_type_catergory
-                  ...Sub_type_category has_many ……………….
+ ```
+                  Category  has_many sub_category
+                  SubCategory has_many sub_type_catergory
+                  Sub_type_category has_many ……………….
                   ...………………………………………………..
                   ...…………………………………………..n number category.
+ ```
 - **What major changes/new comes in rails 5.**
 - **What major changes/new comes in rails 6.**
 - **How to design bit.ly shorten url application? routes, logic, performance?**
