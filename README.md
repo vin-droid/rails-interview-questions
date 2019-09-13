@@ -1,7 +1,8 @@
+
 # Rails Interview questions
 
 **lntro:** 
-Currently, I am searching for a job as a ruby on rails developer, I had many interviews and still going on hunting. I hope when you will be on the same track, these question will definitely help you to prepare for rails interview.  If you find some new question please comment here. For now I am adding just a list of questions but next, I will add solutions and links too.
+Currently, I am searching for a job as a ruby on rails developer, I had many interviews and still going on hunting. I hope when you will be on the same track, these question will definitely help you to prepare for rails interview.  If you find some new question please comment here. For now I am adding just a list of questions but next, I will add solutions and links too.
 
 Mostly Interviewer asks whatever you have mentioned in your resume/cv:
 - **about your project**
@@ -43,8 +44,8 @@ Apart from your project's challenges, gems they asked the following questions.
 - **Git rebase vs Git merge**
 - **Active records, action dispatch**
 - **What is Serialization, why we prefer, how to use it?**
-- **Which gem you use for the management  of roles of the user.**
-- **Have you use angular or ember ever , how.**
+- **Which gem you use for the management  of roles of the user.**
+- **Have you use angular or ember ever , how.**
 - **How to do if you have some uncommitted code and need to take pull from the latest branch.**
 - **How to push code when you reset the last commit in your local branch.**
 - **What is git, commit, head, stash.**
@@ -59,7 +60,7 @@ Apart from your project's challenges, gems they asked the following questions.
 - **Have you used the application only API?**
 - **What is nil**
 - **Nil vs FALSE**
-- **How to make a hash so that it returns the same result like hash[:name] and hash["name"] has an equal result.**
+- **How to make a hash so that it returns the same result like hash[:name] and hash["name"] has an equal result.**
 - **map /each/collect**
 - **When ‘includes’ gives poor performance.**
 - **Scope vs class methods.**
@@ -89,11 +90,11 @@ Apart from your project's challenges, gems they asked the following questions.
 - **How can we store sessions in rails and share session across multiple domains?**
 - **What hidden fields are generated automatically in form_for.**
 - **How to manage to store data in a single table if :**
-                  ...Category  has_many sub_category
-                  ...SubCategory has_many sub_type_catergory
-                  ...Sub_type_category has_many ……………….
-                  ...………………………………………………..
-                  ...…………………………………………..n number category.
+                  ...Category  has_many sub_category
+                  ...SubCategory has_many sub_type_catergory
+                  ...Sub_type_category has_many ……………….
+                  ...………………………………………………..
+                  ...…………………………………………..n number category.
 - **What major changes/new comes in rails 5.**
 - **What major changes/new comes in rails 6.**
 - **How to design bit.ly shorten url application? routes, logic, performance?**
