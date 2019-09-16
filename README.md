@@ -99,3 +99,33 @@ Apart from your project's challenges, gems they asked the following questions.
 - **What major changes/new comes in rails 5.**
 - **What major changes/new comes in rails 6.**
 - **How to design bit.ly shorten url application? routes, logic, performance?**
+- **Ruby method lookup path.**
+- **Explain what singleton methods are. What is Eigenclass in Ruby?**
+- **What is the difference between Proc and lambda?**
+- **What are the three levels of method access control for classes and what do they signify?**
+- **What is Rack?**
+- **Explain the Rack application interface.**
+- **Write a simple Rack application.**
+- **How does Rack middleware works?**
+- **What is ActiveJob? When should we use it?**
+- **What is Asset Pipeline?**
+- **Can you give me some examples of your favorite gems besides Ruby on Rails?**
+- **What is a Rails engine?**
+- **Describe types of associations in Active Record.**
+- **What is Scopes? How should you**
+- **Explain the difference between optimistic and pessimistic locking. use it?**
+- **Explain what is a sessions mechanism. How does it work?**
+- **Describe cross-site request forgery, cross-site scripting, session hijacking, and session fixation attacks.**
+- **What is the difference between SQL Injection and CSS Injection?**
+- **What are your favorite tools to find code smells and potential bugs?**
+- **Why should you avoid fat controllers?**
+- **Why should you avoid fat models?**
+- **Explain extract Value, Service, Form, View, Query, and Policy Objects techniques.**
+- **What is unit testing (in classical terms)?**
+- **What is the primary technique for writing a test?**
+- **What are your favorite tools for writing unit tests?**
+- **What are your favorite tools for writing feature tests?**
+
+
+
+
