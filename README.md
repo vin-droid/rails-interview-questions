@@ -10,22 +10,20 @@ Mostly Interviewer asks whatever you have mentioned in your resume/cv:
 - **gems which you used in the project**
 
 Apart from your project's challenges, gems they asked the following questions.
-- **Diff btw delete_all and destroy_all, delete and destroy**
-- **Dirty methods**
-- **How to delete local git branch**
-- **Diff Module vs Class**
-- **Mixin**
-- **Working of CSRF token**
-- **Where CSRF token is stored.**
-- **How to add ssh key**
-- **Web server vs app server**
-- **Deployment tools**
-- **Tools vs plugin vs gems**
-- **How to create a gem**
-- **What is a gem**
-- **How to run an application without DB.**
+- **Diff btw [delete_all and destroy_all](https://blog.revathskumar.com/2012/04/ruby-activerecord-difference-between.html), [delete and destroy](https://stackoverflow.com/questions/22757450/difference-between-destroy-and-delete?source=post_page-----8cb4db6aa660----------------------)** 
+- **[Dirty methods](https://api.rubyonrails.org/classes/ActiveModel/Dirty.html)**
+- **[How to delete local git branch](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely#targetText=Simply%20do%20git%20push%20origin,local%20branch%20ONLY!...)**
+- **Diff [Module vs Class](http://rubylearning.com/satishtalim/modules_mixins.html#targetText=Ruby%20Modules%20are%20similar%20to,place%20of%20the%20class%20keyword.)**
+- **[Mixin](https://www.sitepoint.com/ruby-mixins-2/) [more](https://ruby-doc.com/docs/ProgrammingRuby/html/tut_modules.html)**
+- **[Working of CSRF token](https://medium.com/@charithra/introduction-to-csrf-a329badfca49)**
+- **[Where CSRF token is stored.](https://stackoverflow.com/questions/20504846/why-is-it-common-to-put-csrf-prevention-tokens-in-cookies#targetText=Page%20loads%20in%20browser%2C%20then,field%20matches%20session%20stored%20token.) [more](https://cloudunder.io/blog/csrf-token)**
+- **[Web server vs app server](https://hanumakanth.wordpress.com/2012/09/04/web-server-vs-application-server-rails/#targetText=Application%20server%20answers%20requests%20to,protocols%20like%20FastCGI%20or%20HTTP.) [more](https://medium.com/@yutafujii_59175/web-server-and-application-server-e984bf5f60af)**
+- **[Deployment tools](https://hashnode.com/post/what-is-your-deployment-strategy-for-rails-app-what-tools-do-you-use-ciliz2xn7022dun533wx5l0ew) [link 2](https://hashnode.com/post/what-is-your-deployment-strategy-for-rails-app-what-tools-do-you-use-ciliz2xn7022dun533wx5l0ew) [link 3](https://www.airpair.com/ruby-on-rails/continuous-deployment)**
+- **[Tools vs plugin vs gems vs Engine](https://stackoverflow.com/questions/23118472/gem-vs-plugin-vs-engine-in-ruby-on-rails)**
+- **[How to create a gem](https://bundler.io/v2.0/guides/creating_gem.html) [more](https://guides.rubygems.org/make-your-own-gem/)**
+- **[How to run an application without DB.](https://stackoverflow.com/questions/821251/how-to-configure-ruby-on-rails-with-no-database)**
 - **What was the most difficult task which you faced and how to manage?**
-- **Git fancy**
+- **[Git fancy](https://github.com/diogocavilha/fancy-git)**
 - **Which frameworks are using ruby besides rails?**
 - **Why we say ‘Ruby on Rails’ not ‘Rails on the ruby.**
 - **Filter,callbacks,hooks,scopes,proc,lambda**
@@ -60,6 +58,7 @@ Apart from your project's challenges, gems they asked the following questions.
 - **Have you used the application only API?**
 - **What is nil**
 - **Nil vs FALSE**
+- **Lazy Loding in Rails** [read](https://rubyinrails.com/2014/01/08/what-is-lazy-loading-in-rails/)
 - **How to make a hash so that it returns the same result like hash[:name] and hash["name"] has an equal result.**
 - **map /each/collect**
 - **When ‘includes’ gives poor performance.**
