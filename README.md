@@ -125,6 +125,9 @@ Apart from your project's challenges, gems they asked the following questions.
 - **What is the primary technique for writing a test?**
 - **What are your favorite tools for writing unit tests?**
 - **What are your favorite tools for writing feature tests?**
+- **How rails migration works? the process due to which it show how many migrations are pending and how many has been deleted**
+- **How JWT token works. When it is preferable to use JWT**
+- **What callbacks in  ActiveJobs**
 
 
 
